@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Hamza
-- 👀 I’m interested in Java-Script
+- 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning Next-Js
 - 💞️ I’m looking to collaborate on the Next.js project
 - 📫 How to reach me alihamza@tkturners.com
