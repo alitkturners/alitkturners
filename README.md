@@ -64,3 +64,5 @@
 
 ## ⚡ Fun Fact
 💡 I enjoy blending **corporate leadership, technology, and engineering tools** — making me comfortable in both boardrooms and code editors.
+
+[![An image of @alihamza365's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alihamza365)](https://holopin.io/@alihamza365)
